@@ -1,0 +1,17 @@
+amount of games: 100000000
+the average amount of 1s is 2.03455856
+the average amount of 2s is 1.98758783
+the average amount of 3s is 2.02250248
+the average amount of 4s is 1.98766067
+the average amount of 5s is 1.98767505
+the average amount of 6s is 1.98746562
+the average amount of 7s is 1.98753422
+the average amount of 8s is 0.0
+the average amount of 9s is 0.0
+the average amount of 10s is 0.0
+the average amount of 11s is 1.99636228
+the average amount of 12s is 2.00136763
+the average amount of 13s is 2.00728566
+the average amount of 14s is 0.0
+the average amount of 15s is 0.0
+the average amount of briscola cards is 0.2804016615

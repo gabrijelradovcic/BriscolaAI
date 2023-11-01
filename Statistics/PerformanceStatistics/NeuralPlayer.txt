@@ -1,0 +1,2 @@
+Time taken to make a decision in milliseconds: 2.42;
+startup time: 2473.106
